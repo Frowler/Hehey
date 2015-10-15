@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<meta charset="utf-8">
+<title>Jon's photos</title>
+<link rel="stylesheet" type="text/css" href="style.css">
+<!--[if lt IE 9]
+<script>
+	document.cerateElement ("article");
+	document.cerateElement ("aside");
+	document.cerateElement ("footer");
+	document.cerateElement ("header");
+	document.cerateElement ("main");
+	document.cerateElement ("nav");
+	document.cerateElement ("section");
+</script>	
+<![endif]-->
+<Meta name="keywords" content="pictures">
+<Meta name="description" content="My personal nature pictures and more">
+<Meta name="generator" content="none">
+<Meta name="author" content="Jon Vatsv&aring;g">
+<Meta name="copyright" content="Jon Vatsv&aring;g">
+<Meta name="resource-type" content="document">
+<Meta name="revisit-after" content="30 days">
+<Meta name="classification" content="internet">
+<Meta name="distribution" content="global">
+<Meta name="rating" content="general">
+<Meta name="language" content="en-us">
+<Meta name="Robots" content="all">
+		</head>
+	<body>
+			<header class="banner">
+			
+				<h1 style="text-align: center"> Photo's from Norway</h1>
+				<P style="text-align: center">Photo's mostly form the western reagon of Norway</p>
+				
+			</header>	
+
+			<nav style="text-align: center">
+			   <ul>
+			      <li><a href="index.html">Home</a></li>
+				  <li><a href="photos.html">Photo's</a></li>
+				  <li><a href="bio.html">About</a></li>
+				</ul>
+			</nav>
+		<main>
+			<section>
+				<h2>Newest nature photo's</h2>
+				<article>
+				   <Header>	
+					<h3>(Hvor er blidene fra?)</h3>
+					<p>(fotograf og dato)</p>
+				   </Header>
+<!-->				   <p>sett inn bilder her</p>		<!-->
+				</article>
+				
+				<article>
+				   <Header>	
+					<h3>(Hvor er blidene fra?)</h3>
+					<p>(fotograf og dato)</p>
+				   </Header>
+<!-->				   <p>sett inn bilder her</p>		<!-->
+				</article>
+			</section>	
+			
+			<section>
+				<h2>Newest other photo's</h2>
+				<article>
+				   <Header>	
+					<h3>(Hvor er blidene fra?)</h3>
+					<p>(fotograf og dato)</p>
+				   </Header>
+<!-->				   <p>sett inn bilder her</p>		<!-->
+				</article>
+				
+				<article>
+				   <Header>	
+					<h3>(Hvor er blidene fra?)</h3>
+					<p>(fotograf og dato)</p>
+				   </Header>
+<!-->				   <p>sett inn bilder her</p>		<!-->
+				</article>
+			</section>	
+	<aside>
+		<h2>Links</h2>
+		<p><a href="http://www.youtube.com"><img src="linker\youtube.gif" width="160"></a></p>
+		<p><a href="http://www.twitchtv.com"><img src="linker\twitch.gif" width="160"></a></p>
+		<p><a href="http://www.google.com"><img src="linker\google1.gif" width="160"></a></p>
+		<p><a href="http://www.facebook.com"><img src="linker\facebook.gif" width="160"></a></p>
+		<p><a href="http://www.twitter.com"><img src="linker\twitter.gif" width="160"></a></p>
+	</aside>	
+		
+		<footer>
+		
+		JV
+		
+		</footer>
+	</body>
+</html>	
